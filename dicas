@@ -1,4 +1,4 @@
-- Corrigindo bug do VirtualBox
+- Corrigindo bug do VirtualBox, que causa a tela azul em máquinas virtuais no Windows após efetuar atualizações do windows.
 
 open a cmd with admin privilige
 bcdedit.exe /set hypervisorlaunchtype off
